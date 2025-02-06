@@ -1,5 +1,5 @@
-# hackindore2_Archers
-Book recommendation system working on content based recommendation
+
+# Book recommendation system working on content based recommendation
 
 1.We use the concept of vectorizer which provides a simple way to both tokenize a collection of text documents and build a vocabulary of known words, but also to encode new documents using that vocabulary. 
 
